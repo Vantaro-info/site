@@ -16,7 +16,9 @@ export default function Home() {
         We simplify fixture sourcing for developers with AI-powered quoting and lean logistics.
         Join us as a supplier and grow your reach.
       </p>
-      <a href=\"https://tally.so/r/w5DKKb\" target=\"_blank\" style={{ display: 'inline-block', marginTop: '1.5rem', padding: '1rem 2rem', background: '#fff', color: '#000', fontWeight: 'bold', textDecoration: 'none', borderRadius: 6 }}>
+<a href="https://tally.so/r/w5DKKb" ...
+  Apply Now
+</a>
         Apply Now
       </a>
     </main>
